@@ -1,0 +1,121 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{Zurbruegg2020}{booklet}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee2b5de367d1b1e8befc1b25053ee4ec}{%
+           family={Zurbruegg},
+           familyi={Z\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee2b5de367d1b1e8befc1b25053ee4ec}
+      \strng{fullhash}{ee2b5de367d1b1e8befc1b25053ee4ec}
+      \strng{bibnamehash}{ee2b5de367d1b1e8befc1b25053ee4ec}
+      \strng{authorbibnamehash}{ee2b5de367d1b1e8befc1b25053ee4ec}
+      \strng{authornamehash}{ee2b5de367d1b1e8befc1b25053ee4ec}
+      \strng{authorfullhash}{ee2b5de367d1b1e8befc1b25053ee4ec}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Paper presented at Microbial Stress, Rome, Italy}
+      \field{title}{Is Trehalose Synthesis Determined by the Growth Rate in Escherichia coli?}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{Zurbruegg2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=2,uniquepart=given,hash=04c2ee6f4c156c1431f222c59d6c78ab}{%
+           family={Zurbruegg},
+           familyi={Z\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=6ee98c63e55d3ee908d9c1afddc7b7cb}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={Man\bibnamedelima Ying},
+           giveni={M\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1603f31efc550d0872f79bc532aaf0cc}{%
+           family={Svenningsson},
+           familyi={S\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{86b64397c4fefd3967c8b27658a3624b}
+      \strng{fullhash}{86b64397c4fefd3967c8b27658a3624b}
+      \strng{bibnamehash}{86b64397c4fefd3967c8b27658a3624b}
+      \strng{authorbibnamehash}{86b64397c4fefd3967c8b27658a3624b}
+      \strng{authornamehash}{86b64397c4fefd3967c8b27658a3624b}
+      \strng{authorfullhash}{86b64397c4fefd3967c8b27658a3624b}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Mutations in the glucocerebrosidase gene are a common genetic risk factor for developing Parkinson's disease. The reasons why glucocerebrosidase mutations cause an increased life-time risk of developing Parkinson's disease are not fully understood. Here, we aimed to verify whether glucocerebrosidase activity has an effect on total $\alpha$-synuclein levels. We use SH-SY5Y and primary cortical cells and expose them to either Conduritol-$\beta$-epoxide or siRNA targeting GBA 1. Unexpectedly, RNA interference towards GBA 1 and catalytic inhibition produce different effects on $\alpha$-synuclein levels in cellular models.}
+      \field{issn}{18727972}
+      \field{journaltitle}{Neuroscience Letters}
+      \field{title}{{GBA RNAi but not catalytic inhibition of glucocerebrosidase with Conduritol-$\beta$-epoxide increases levels of total $\alpha$-synuclein in SH-SY5Y cells}}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1016/j.neulet.2019.05.027
+      \endverb
+      \keyw{Conduritol-$\beta$-epoxide,GBA 1,Gaucher's disease,Glucocerebrosidase,Parkinson's disease,$\alpha$-synuclein}
+    \endentry
+    \entry{Zurbruegg2017}{booklet}{}
+      \name{author}{1}{}{%
+        {{un=2,uniquepart=given,hash=04c2ee6f4c156c1431f222c59d6c78ab}{%
+           family={Zurbruegg},
+           familyi={Z\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=2}}%
+      }
+      \strng{namehash}{04c2ee6f4c156c1431f222c59d6c78ab}
+      \strng{fullhash}{04c2ee6f4c156c1431f222c59d6c78ab}
+      \strng{bibnamehash}{04c2ee6f4c156c1431f222c59d6c78ab}
+      \strng{authorbibnamehash}{04c2ee6f4c156c1431f222c59d6c78ab}
+      \strng{authornamehash}{04c2ee6f4c156c1431f222c59d6c78ab}
+      \strng{authorfullhash}{04c2ee6f4c156c1431f222c59d6c78ab}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Paper presented at Karolinska Neuroscience Conference, Trysil, Norway}
+      \field{title}{Is modulation of glucocerebrosidase a viable new strategy for treating Parkinson's Disease?}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
