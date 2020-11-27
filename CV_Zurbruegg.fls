@@ -381,6 +381,13 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.
 INPUT /usr/share/texlive/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-TS1-TLF.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/typoland/lato/Lato-Italic-T1-TLF.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1regular.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/typoland/lato/Lato-Italic-T1-TLF.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free0solid.tfm
@@ -408,6 +415,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/typoland/lato/Lato-Regular-T1-TLF.v
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-T1-TLF--base.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/typoland/lato/Lato-Regular-TS1-TLF.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-TS1-TLF--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/typoland/lato/Lato-Italic-T1-TLF.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/typoland/lato/Lato-Italic-T1-TLF--base.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/typoland/lato/Lato-Regular-T1-TLF.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-T1-TLF--base.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/typoland/lato/Lato-Italic-T1-TLF.vf
@@ -437,3 +446,4 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb

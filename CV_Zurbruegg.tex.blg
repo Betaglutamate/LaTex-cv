@@ -1,5 +1,0 @@
-[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
-[0] Config.pm:307> INFO - Logfile is 'CV_Zurbruegg.tex.blg'
-[65] biber:322> INFO - === Fri Nov 27, 2020, 10:12:07
-[176] Utils.pm:309> ERROR - Cannot find 'CV_Zurbruegg.tex.bcf'!
-[176] Biber.pm:132> INFO - ERRORS: 1
